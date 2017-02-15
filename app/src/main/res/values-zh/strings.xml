@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">你好</string>
+    <string name="welcome">"歡迎使用Android應用程序開發！ "</string>
+    <string name="Valentine">情人節快樂！！</string>
+</resources>
